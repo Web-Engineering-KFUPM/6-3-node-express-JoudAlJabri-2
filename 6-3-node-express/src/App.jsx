@@ -190,7 +190,8 @@ How to Test the Output of the Lab
 
 1. Start the frontend:
    Open a terminal in:
-      6-3-node-express-main\6-3-node-express
+      6-3-node-express-main\6-
+      3-node-express
    Then run:
       npm run dev
 
